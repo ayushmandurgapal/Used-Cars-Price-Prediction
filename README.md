@@ -15,14 +15,14 @@ The following libraries have been used in this project-
 4. Matplotlib
 5. Scikit-learn
 
-To view the Jupyter notebook, click [Named Link](https://github.com/ayushmandurgapal/Used-Cars-Price-Prediction/blob/main/Linear%20Regression%20-%20Used%20Cars-Final.ipynb/ "here")
+To view the Jupyter notebook, click [here](https://github.com/ayushmandurgapal/Used-Cars-Price-Prediction/blob/main/Linear%20Regression%20-%20Used%20Cars-Final.ipynb/ "here")
 
 ## FLOW
 IMPORTING LIBRARIES ----> LOADING THE DATASET ----> DATA CLEANING AND PREPROCESSING ----> EXPLORATORY DATA ANALYSIS ----> MODEL BUILDING ---->PREDICTING RESULTS ----> REVIEWING THE PERFORMANCE ----> CONCLUSION
 
 ## FINAL REGRESSION
 
-<img src="C:\Users\ayush\Downloads\Regression output.jpg">
+<img src="Regression output.jpg">
 
 
 
