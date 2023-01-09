@@ -1,5 +1,7 @@
 # Used Cars Price Prediction
 
+<img src="Images/used_cars.jpg">
+
 ## OVERVIEW
 The business of selling used cars is quite popular and dealers need to decide an optimum price at which they should buy used cars so that they gain a decent profit. Thus, predicting the price of used cars becomes important. This model is built to predict the price of used cars in INR based on various factors like Body Type, Mileage, Power, Torque, Number of Past Owners, etc. 
 
