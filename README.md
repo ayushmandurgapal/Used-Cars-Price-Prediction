@@ -22,7 +22,7 @@ IMPORTING LIBRARIES ----> LOADING THE DATASET ----> DATA CLEANING AND PREPROCESS
 
 ## FINAL REGRESSION
 
-<img src="Used-Cars-Price-Prediction/Images/Regression output.jpg">
+<img src="Images/Regression output.jpg">
 
 
 
